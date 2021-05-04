@@ -1,0 +1,8 @@
+;========================VPN============================
+[module/VPN]
+type = custom/text
+;content-padding = 1 
+content-foreground = #ffff
+content = " vpn"
+click-left = InitVpn.sh
+
