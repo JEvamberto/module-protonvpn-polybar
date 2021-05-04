@@ -3,6 +3,6 @@
 type = custom/text
 ;content-padding = 1 
 content-foreground = #ffff
-content = " vpn"
+content = "f3ed vpn"
 click-left = InitVpn.sh
 
